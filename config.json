@@ -1,7 +1,5 @@
 {
-  "TOKEN": "",
-  "CHANNEL": "658285261129515008",
-  "SERVER": "658281815261315103",
-  "STATUS": "NCS",
-  "LIVE": "https://youtu.be/VBlFHuCzPgY"
+    "token": "ODIwNjc3MTU1ODY3NzIxNzM4.YE4pKQ.vdf0SiuX4rG9bQlH6VuomlehqbQ",
+    "channel_id": "665937319445921798",
+    "video_urls": ["https://youtu.be/VBlFHuCzPgY"]
 }

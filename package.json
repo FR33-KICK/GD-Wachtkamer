@@ -1,18 +1,33 @@
 {
-  "name": "gd-wachtkamer",
-  "version": "1.0.0",
-  "description": "",
+  "name": "24-7-music-bot",
+  "version": "1.1.0",
+  "description": "A 24/7 music bot for Discord that can play from a list of user-defined videos.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "cnnd",
+  "license": "GPL-3.0-only",
   "dependencies": {
-    "@discordjs/opus": "^0.3.3",
     "discord.js": "^12.5.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-command": "^1.0.1",
     "ffmpeg-static": "^4.2.7",
-    "ytdl-core": "^4.5.0"
-  }
+    "opusscript": "0.0.7",
+    "vuelidate": "^0.7.6",
+    "ytdl-core": "^4.4.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FR33-KICK/GD-Wachtkamer.git"
+  },
+  "keywords": [
+    "GwnDaan",
+    "wachtkamer"
+  ],
+  "bugs": {
+    "url": "https://github.com/FR33-KICK/GD-Wachtkamer/issues"
+  },
+  "homepage": "https://github.com/FR33-KICK/GD-Wachtkamer#readme"
 }
